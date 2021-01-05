@@ -3,6 +3,10 @@ A starter template for very simple and small projects or static web pages with T
 
 Follow the Getting Started guide and build static web pages with Tailwind CSS. Also, follow the steps to Optimize for Production to end up with a very tiny final CSS bundle.
 
+OR
+
+Watch this video for demo - https://youtu.be/lGlq8ZjozKI
+
 ## Getting Started
 1. Clone the repository
 
