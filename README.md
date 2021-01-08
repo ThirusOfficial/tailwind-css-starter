@@ -38,6 +38,15 @@ Watch this video for demo - https://youtu.be/lGlq8ZjozKI
 8. Open the `public > index.html` file in your browser and you should see a heading styled with a gradient. If you don't see a gradient on the text, something went wrong.
 
 
+## How to use
+
+- Go to `public > index.html` Remove the `<h1>` element and start adding your own HTML.
+- If you need to add more pages, add them in the `public` folder.
+- To extract classes and use the `@apply` directive, edit the custom CSS file in `src > styles.css`. Add any amount of custom CSS within this file. Refer [https://tailwindcss.com/docs/installation#using-a-custom-css-file](https://tailwindcss.com/docs/installation#using-a-custom-css-file)
+
+NOTE: Do NOT edit the file `public > styles.css` directly. The CSS here is generated from `src > styles.css` using Tailwind when you build.
+
+
 ## Optimize for production
 
 Before pushing your code (the `public` folder) for production, run the below command to reduce the size of `styles.css` within the public folder
