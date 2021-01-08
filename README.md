@@ -41,7 +41,7 @@ Watch this video for demo - https://youtu.be/lGlq8ZjozKI
 ## How to use
 
 - Go to `public > index.html` Remove the `<h1>` element and start adding your own HTML.
-- If you need to add more pages, add them in the `public` folder.
+- If you need to add more HTML pages, add them in the `public` folder.
 - To extract classes and use the `@apply` directive, edit the custom CSS file in `src > styles.css`. Add any amount of custom CSS within this file. Refer [https://tailwindcss.com/docs/installation#using-a-custom-css-file](https://tailwindcss.com/docs/installation#using-a-custom-css-file)
 
 NOTE: Do NOT edit the file `public > styles.css` directly. The CSS here is generated from `src > styles.css` using Tailwind when you build.
